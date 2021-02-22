@@ -7,6 +7,7 @@ body {
 img {
   height: auto;
   max-width: 100%;
+  
 } 
 
 a {
@@ -55,6 +56,10 @@ footer > p > a {
   font-weight: 600;
   text-decoration: none;
 }
+.card{
+    padding-right: 10px
+}
+
 
 /* classes */
 .cta {
@@ -77,9 +82,6 @@ footer > p > a {
   font-size: 1.2rem;
 }
 
-.card{
-    padding-left: 170px;
-}
 
 
 
@@ -138,8 +140,6 @@ footer > p > a {
         text-align: center;
     }
 }
-
-
 
 
 @media (max-width: 340px){
